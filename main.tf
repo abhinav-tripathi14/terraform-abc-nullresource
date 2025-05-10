@@ -1,2 +1,3 @@
-resource "null_resource" "test-3"{
+resource "null_resource" "test-5"{
+count = 3
 }
