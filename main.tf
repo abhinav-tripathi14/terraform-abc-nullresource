@@ -1,3 +1,3 @@
 resource "null_resource" "test-3"{
-count=var.test-1
+count=var.test-2
 }
